@@ -1,4 +1,4 @@
-# Velocidade de Vídeo
+# Video Time Converter
 
 * First personal project using Python.
 * This program calculates the real time of an accelerated video.
